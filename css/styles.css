@@ -6,11 +6,16 @@ body {
 
 
 .wrapper {
+  
   text-align: center;         /* centra il contenuto*/
   margin:auto;             /* centra il div (wrapper) */
   background-color: #00334d;
+ 	width: 300px;
 }
 
 #immagine {
-  width: 30%;
+width: 200px;
+border-radius: 50%;
+border: 5px double #00e6e6;
+margin: 40px;
 }
